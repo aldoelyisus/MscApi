@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AutoMapperProfiles",
+    "\\Controllers",
+    "\\DataAccess",
+    "\\DataAccess\\DTO",
+    "\\DataAccess\\Repository",
+    "\\Domain",
+    "\\Domain\\Entities"
+  ],
+  "SelectedNode": "\\DataAccess\\DTO\\ProductCardDTO.cs",
+  "PreviewInSolutionExplorer": false
+}
